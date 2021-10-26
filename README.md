@@ -2,11 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- [💻GITHUB STATS💻](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=radical)
-
-<!---
-Theepori92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+- 📫 How to reach me 
+  [![AppVeyor](https://img.shields.io/appveyor/build/theepori/github)
+- ![💻GITHUB STATS💻](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=radical)
+- ![THEEPORI GITHUB STATS](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=dark&show_icons=true)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Theepori92&repo=github-readme-stats)](https://github.com/Theepori92/github-readme-stats)
