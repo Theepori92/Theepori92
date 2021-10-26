@@ -1,13 +1,10 @@
 
-![(https://telegra.ph/file/0937f93d4d2d70d89ee52.mp4)
-
-
-[THEEPORI](https://telegra.ph/file/0937f93d4d2d70d89ee52.mp4)
+![THEEPORI](https://telegra.ph/file/70227ebf213c56cfbec0b.jpg)
 
 <a href="#"><mp4 width="100%" height="auto" src="https://telegra.ph/file/0937f93d4d2d70d89ee52.mp4" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theeppri</h1>
+<h3 align="center">I'm a Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
