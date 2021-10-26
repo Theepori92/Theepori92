@@ -57,7 +57,7 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 <a href = "https://twitter.com/subhamraoniarxxx"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniarxxx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-# 👁️‍🗨️ Views & Followers
+# 👁️‍🗨️Views&Followers
 <a href="https://github.com/Theepori92/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Theepori">
 </a>
