@@ -55,14 +55,8 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 
 ## 📞Contact me📱
-<a href="https://t.me/TechiError"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=50/></a> 
-<a href="https://instagram.com/ItzSipak"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" width=50/></a> </p>
-
-
-# 📩 My Contate📱
-<a href = "https://www.linkedin.com/in/subham-raoniarxxx/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniarxxx"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniarxxx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://t.me/TNTHEEPORI"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=50/></a> 
+<a href="https://instagram.com/It"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" width=50/></a> </p>
 
 # 👁️‍🗨️Views&Followers
 <a href="https://github.com/Theepori92/github-profile-views-counter">
