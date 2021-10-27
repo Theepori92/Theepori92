@@ -31,10 +31,6 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 ## 💻 Most used Language
   <a href="https://github.com/Theepori92/github-readme-stats"><img alt="Theepori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theepori92&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 
-## 🕒 Wakatime Stats
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/Theepori92/github-readme-stats)
-
-
 ## 📈 My GitHub Graph
   <a href="https://github.com/Theepori92/github-readme-activity-graph"><img alt="Theepori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Theepori92&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
