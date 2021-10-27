@@ -4,6 +4,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theepori</h1>
 <h3 align="center">I'm a Developer from India.</h3>
 
+```python
+Name = THEEPORI
+Who I Am = "porampokukaiya😁"
+Age = "Sollamatan😜"
+Country = "🇮🇳"
+```
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <h3 align="center">
