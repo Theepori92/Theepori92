@@ -54,7 +54,7 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 ## 📞Contact me📱
 <a href="https://t.me/TNTHEEPORI"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=50/></a> 
-<a href="https://instagram.com/It"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" width=50/></a> </p>
+<a href="https://instagram.com/theepori92"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" width=50/></a> </p>
 
 # 👁️‍🗨️Views&Followers
 <a href="https://github.com/Theepori92/github-profile-views-counter">
