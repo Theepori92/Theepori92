@@ -18,13 +18,11 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 - 📫 How to reach me satha payalai eathuku enkita pasanum 😊
 
   [![AppVeyor](https://img.shields.io/appveyor/build/theepori/github)
-
-- ![💻GITHUB STATS💻](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=radical)
+## My Stats
+![💻GITHUB STATS💻](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=radical)
 
 ## 💪Streak stats
-
-<p align="center">
-    <a href="https://github.com/Theepori92/github-readme-streak-stats">
+   <a href="https://github.com/Theepori92/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Theepori's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theepori92&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
 ## 📊 My Github Stats
@@ -32,6 +30,10 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 ## 💻 Most used Language
   <a href="https://github.com/Theepori92/github-readme-stats"><img alt="Theepori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theepori92&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
+
+## 🕒 Wakatime Stats
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/Theepori92/github-readme-stats)
+
 
 ## 📈 My GitHub Graph
   <a href="https://github.com/Theepori92/github-readme-activity-graph"><img alt="Theepori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Theepori92&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
