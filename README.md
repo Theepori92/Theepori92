@@ -10,6 +10,8 @@ Who I Am = "porampokukaiya😁"
 Age = "Sollamatan😜"
 Country = "🇮🇳"
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DD5524&size=25&width=550&lines=Iam+THEEPORI+From+INDIA%2CTN;Iam+Not+a+daveloper%F0%9F%92%BB;Coding%2Clanguage+eathuvum+thariyathu;Mooditu+po+%F0%9F%98%9C+)](https://git.io/typing-svg)
+
 ````C++
 Name = "THEEPORI"
 Place = "PORAMPOKU"
