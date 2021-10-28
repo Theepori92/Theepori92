@@ -10,6 +10,16 @@ Who I Am = "porampokukaiya😁"
 Age = "Sollamatan😜"
 Country = "🇮🇳"
 ```
+````C++
+Name = "THEEPORI"
+Place = "PORAMPOKU"
+Age = "tharingi enna Panna pora"
+Job = "howdo I tell you 😊"
+Interest = "jolly"
+learning = "Time"
+My Heart = "Friends"
+Reach me = "eathuku poi vealaya paru"
+````
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
@@ -18,11 +28,6 @@ Country = "🇮🇳"
 Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
-👋 Hi, I’m @Theepori
-- 👀 I’m interested in fun every time
-- 🌱 I’m currently learning fun only
-- 💞️ I’m looking to collaborate on firends
-- 📫 How to reach me satha payalai eathuku enkita pasanum 😊
 
   [![AppVeyor](https://img.shields.io/appveyor/build/theepori/github)
 ## My Stats
