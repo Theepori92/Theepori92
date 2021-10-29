@@ -40,11 +40,6 @@ Reach me = "eathuku poi vealaya paru"
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-<h3 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h3>
-
 
   [![AppVeyor](https://img.shields.io/appveyor/build/theepori/github)
 
