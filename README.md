@@ -1,13 +1,23 @@
 
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theepori</h1>
+<h3 align="center">I'm not a Developer, from India🇮🇳.</h3>
+
+
 <h1 align="center">
 <img src="https://media.giphy.com/media/3ohzdOrcdpiD26TPt6/giphy.gif" width="200" height="200"/>
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/BFczswnHUAi40/giphy.gif" width="350" height="75"/>
+
 
 <a href="#"><mp4 width="100%" height="auto" src="https://telegra.ph/file/0937f93d4d2d70d89ee52.mp4" height="175px"/></a>
+<h1 align="center">
+<img src="https://media.giphy.com/media/Jsl3rOi3tu8qCvCcsO/giphy.gif" width="350" height="100"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h3>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theepori</h1>
-<h3 align="center">I'm a Developer from India.</h3>
 
 ```python
 Name = THEEPORI
@@ -37,8 +47,6 @@ Welcome to Theepori profile! <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 
   [![AppVeyor](https://img.shields.io/appveyor/build/theepori/github)
-## My Stats
-![💻GITHUB STATS💻](https://github-readme-stats.vercel.app/api?username=Theepori92&theme=radical)
 
 ## 💪Streak stats
    <a href="https://github.com/Theepori92/github-readme-streak-stats">
