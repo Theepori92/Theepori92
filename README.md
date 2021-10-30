@@ -53,6 +53,9 @@ Reach me = "eathuku poi vealaya paru"
 ## 💻 Most used Language
   <a href="https://github.com/Theepori92/github-readme-stats"><img alt="Theepori's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theepori92&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 
+## 💻Top Language
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theepori92&langs_count=8)](https://github.com/Theepori92/github-readme-stats)
+
 ## 📈 My GitHub Graph
   <a href="https://github.com/Theepori92/github-readme-activity-graph"><img alt="Theepori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Theepori92&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
