@@ -1,7 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/ShHpRO6rR6aAWbc4VW/giphy.gif"width="150" height="150" </p>
 
-
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Theepori92/count.svg" />
@@ -85,8 +84,10 @@ Reach me = "eathuku poi vealaya paru"
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 
 ## 📞Contact me📱
-<a href="https://t.me/TNTHEEPORI"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=50/></a> 
-<a href="https://instagram.com/theepori92"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png" width=50/></a> </p>
+
+<h1 align="left">
+<a href="https://instagram.com/theepori92"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="80" height="80"</a>
+<a href="https://t.me/TNTHEEPORI"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="90" height="100"</a>
 
 # 👁️‍🗨️Views&Followers
 <a href="https://github.com/Theepori92/github-profile-views-counter">
@@ -103,10 +104,5 @@ Reach me = "eathuku poi vealaya paru"
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif"width="300" height="200"/>
-
-<h1 align="left">
-<a href="https://instagram.com/theepori92"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="80" height="80"</a>
-<a href="https://t.me/TNTHEEPORI"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="90" height="100"</a>
-
 
 
