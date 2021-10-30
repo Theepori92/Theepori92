@@ -1,5 +1,11 @@
 
 
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Theepori92/count.svg" />
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theepori</h1>
 <h3 align="center">I'm not a Developer, from India🇮🇳.</h3>
 
