@@ -1,4 +1,5 @@
-
+<h1 align="center">
+<img src="https://media.giphy.com/media/ShHpRO6rR6aAWbc4VW/giphy.gif"width="150" height="150" </p>
 
 
 <p align="center"> 
@@ -92,3 +93,15 @@ Reach me = "eathuku poi vealaya paru"
     <img src="https://komarev.com/ghpvc/?username=Theepori">
 </a>
 <a href="https://github.com/Theepori92?tab=followers"><img src="https://img.shields.io/github/followers/Theepori92?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<h1 align="center">
+<img src="https://media.giphy.com/media/CDlIzlE0ELIm1sAX02/giphy.gif"width="200" height="200"
+ 
+<h1 align="center">
+<img src="https://media.giphy.com/media/bGcWFp5quLOtbQF25R/giphy.gif"width="200" height="200"/>
+
+<h1 align="center">
+<img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif"width="300" height="200"/>
+
+  
