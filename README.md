@@ -96,7 +96,7 @@ Reach me = "eathuku poi vealaya paru"
 
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/CDlIzlE0ELIm1sAX02/giphy.gif"width="200" height="200"
+<img src="https://media.giphy.com/media/CDlIzlE0ELIm1sAX02/giphy.gif"width="200" height="200"/>
  
 <h1 align="center">
 <img src="https://media.giphy.com/media/bGcWFp5quLOtbQF25R/giphy.gif"width="200" height="200"/>
