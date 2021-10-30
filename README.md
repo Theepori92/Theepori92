@@ -106,4 +106,8 @@ Reach me = "eathuku poi vealaya paru"
 
 <h1 align="left">
 <a href="https://instagram.com/theepori92"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="80" height="80"</a>
-<a href="https://t.me/TNTHEEPORI"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="90" height="100"</a>
+<a href="https://t.me/tntheepori"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="90" height="100"</a>
+
+
+##
+<a href="https://t.me/danish_00"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
