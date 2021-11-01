@@ -91,7 +91,7 @@ Reach me = "eathuku poi vealaya paru"
 <a href="https://mobile.twitter.com/TNTHEEPORI"><img src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif"width="110" height="110"</a>
 
 
-# 👁️‍🗨️Views&Followers
+# 👁️‍🗨️Views&Followes
 <a href="https://github.com/Theepori92/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Theepori"
 </a>
