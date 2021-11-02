@@ -86,10 +86,10 @@ Reach me = "eathuku poi vealaya paru"
 ## 📞Contact me📱
 
 <h1 align="left">
-<a href="https://instagram.com/theepori92"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="75" height="75"</a>
-<a href="https://t.me/TNTHEEPORI"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="75" height="75"</a>
+<a href="https://instagram.com/theepori92"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="70" height="70"</a>
+<a href="https://t.me/TNTHEEPORI"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="70" height="70"</a>
 <a href="https://mobile.twitter.com/TNTHEEPORI"><img src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif"width="80" height="80"</a>
-<a href="https://m.youtube.com/channel/UCbqWIHFZeLnK92DEQM3qIVA/videos"><img src="https://media.giphy.com/media/FtmV5qexHbUqT21JXH/giphy.gif"width="75" height="75"</a>
+<a href="https://m.youtube.com/channel/UCbqWIHFZeLnK92DEQM3qIVA/videos"><img src="https://media.giphy.com/media/FtmV5qexHbUqT21JXH/giphy.gif"width="70" height="70"</a>
 
 
 
