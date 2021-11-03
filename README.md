@@ -33,7 +33,7 @@ Country = "🇮🇳"
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DD5524&size=25&width=550&lines=Iam+THEEPORI+From+INDIA%2CTN;Iam+Not+a+daveloper%F0%9F%92%BB;Coding%2Clanguage+eathuvum+thariyathu;Mooditu+po+%F0%9F%98%9C+)](https://git.io/typing-svg)
 <h1 align="up">
-<img src="https://media.giphy.com/media/cRNeCftHi7SlX3Fwml/giphy.gif"width="350" height="200"/>
+<img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif"width="350" height="200"/>
 </h3>
 
 ````C++
