@@ -118,3 +118,29 @@ Reach me = "eathuku poi vealaya paru"
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/A22AoFnl20vCpqEXL6/giphy.gif"width="150" height="250"/>
+
+
+
+''' html
+<!DOCTYPE html> 
+<html>
+<head>
+<style>
+body { margin: 0; } * { box-sizing: border-box; } input, textarea { width: 100%; } 
+</style> 
+</head> 
+<body>
+ <form action="/action_page.php"> First name:<br> <input type="text" name="firstname" value="Mickey">
+<br> Last name:<br> 
+<input type="text" name="lastname" value="Mouse">
+<br> Comments:<br>
+ <textarea name="message" rows="5" cols="30"> </textarea> <br>
+<br> <input type="submit" value="Submit">
+ </form> <p><strong>hi:</strong> Try to remove.</p> 
+</body>
+ </html>
+'''
+
+
+
+
