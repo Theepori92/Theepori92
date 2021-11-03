@@ -32,6 +32,10 @@ Age = "Sollamatan😜"
 Country = "🇮🇳"
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DD5524&size=25&width=550&lines=Iam+THEEPORI+From+INDIA%2CTN;Iam+Not+a+daveloper%F0%9F%92%BB;Coding%2Clanguage+eathuvum+thariyathu;Mooditu+po+%F0%9F%98%9C+)](https://git.io/typing-svg)
+<h1 align="up">
+<img src="https://media.giphy.com/media/cRNeCftHi7SlX3Fwml/giphy.gif"width="350" height="200"/>
+
+</h3>
 
 ````C++
 Name = "THEEPORI"
@@ -118,29 +122,4 @@ Reach me = "eathuku poi vealaya paru"
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/A22AoFnl20vCpqEXL6/giphy.gif"width="150" height="250"/>
-
-
-
-''' html
-<!DOCTYPE html> 
-<html>
-<head>
-<style>
-body { margin: 0; } * { box-sizing: border-box; } input, textarea { width: 100%; } 
-</style> 
-</head> 
-<body>
- <form action="/action_page.php"> First name:<br> <input type="text" name="firstname" value="Mickey">
-<br> Last name:<br> 
-<input type="text" name="lastname" value="Mouse">
-<br> Comments:<br>
- <textarea name="message" rows="5" cols="30"> </textarea> <br>
-<br> <input type="submit" value="Submit">
- </form> <p><strong>hi:</strong> Try to remove.</p> 
-</body>
- </html>
-'''
-
-
-
 
