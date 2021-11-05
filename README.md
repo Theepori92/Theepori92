@@ -1,3 +1,7 @@
+
+[![1 logo](https://telegra.ph/file/57cc9c960a902ba583206.jpg)](https://bio.cool/theepori)
+
+
 <h1 align="center">
 <img src="https://media.giphy.com/media/ShHpRO6rR6aAWbc4VW/giphy.gif"width="150" height="150" </p>
 
@@ -5,8 +9,6 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Theepori92/count.svg" />
 </p>
-
-<a href="https://bio.cool/theepori" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 
 
 
