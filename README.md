@@ -1,6 +1,6 @@
 <h1 align="center">
     <a target="red">
-<a href="https://bio.cool/theepori" target="_blank"> <img src="https://telegra.ph/file/57cc9c960a902ba583206.jpg" width="150px" height="200" "> </a></a> 
+<a href="https://bio.cool/theepori" target="_blank"> <img src="https://telegra.ph/file/57cc9c960a902ba583206.jpg" width="150px" height="250" "> </a></a> 
 
 
 <h1 align="center">
