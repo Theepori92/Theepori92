@@ -120,7 +120,3 @@ Reach me = "eathuku poi vealaya paru"
 <h1 align="center">
 <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif"width="300" height="200"/>
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/lqB3D2EXRenQkpmkNb/giphy.gif"width="150" height="150"/>
-
-
