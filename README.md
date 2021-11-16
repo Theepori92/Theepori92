@@ -2,10 +2,6 @@
     <a target="red">
 <a href="https://bio.cool/theepori" target="_blank"> <img src="https://telegra.ph/file/57cc9c960a902ba583206.jpg" width="150px" height="250" "> </a></a> 
 
-
-<h1 align="center">
-<img src="https://media.giphy.com/media/ShHpRO6rR6aAWbc4VW/giphy.gif"width="150" height="150" </p>
-
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Theepori92/count.svg" />
