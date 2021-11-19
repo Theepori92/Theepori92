@@ -15,8 +15,7 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/BFczswnHUAi40/giphy.gif" width="350" height="75"/>
 
-<img src="https://media.giphy.com/media/Jsl3rOi3tu8qCvCcsO/giphy.gif" width="350" height="100"/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="50">
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
